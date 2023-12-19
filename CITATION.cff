@@ -1,0 +1,8 @@
+title: 'Learning to Localize with Attention: from sparse mmWave channel estimates from a single BS to high accuracy 3D location'
+repository-code: https://github.com/WiSeCom-Lab/ChanFormer.git
+date-released: 2024-01-15
+authors:
+  - given-names: Yun
+    family-names: Chen
+    affiliation: North Carolina State University
+cff-version: 1.2.0
