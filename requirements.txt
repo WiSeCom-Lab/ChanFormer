@@ -1,0 +1,4 @@
+git+https://github.com/Joanguitar/pywarraychannels
+matplotlib
+tensorflow
+./MOMP
