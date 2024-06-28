@@ -1,4 +1,5 @@
-git+https://github.com/Joanguitar/pywarraychannels
-matplotlib
+git+https://github.com/Joanguitar/pywarraychannels 
 tensorflow
-./MOMP
+keras
+matplotlib
+
